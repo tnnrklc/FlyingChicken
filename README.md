@@ -1,4 +1,4 @@
-# Flying_Chicken
+# FlyingChicken
 Simple 2D game written in Java programming language.
 
 <img width="500" alt="Intro" src="https://user-images.githubusercontent.com/99681146/159366242-61c3b6c5-d6cf-459b-b510-432c4d2929e0.png">
